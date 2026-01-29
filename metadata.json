@@ -1,0 +1,7 @@
+{
+  "name": "RIGOR-HSPA-Secure++ Validation Oracle",
+  "description": "Integrated validation suite for the Hybrid Semantic Processing Architecture (HSPA) and post-quantum genomic adjudication engine. Featuring AI-assisted report synthesis and legal export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
