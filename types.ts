@@ -10,3 +10,10 @@ export interface Report {
     sections: ReportSection[];
     context?: string;
 }
+
+export interface SnpData {
+    rsid: string;
+    chromosome: string;
+    position: number;
+    genotype: string;
+}
